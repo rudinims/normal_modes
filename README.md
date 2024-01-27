@@ -21,7 +21,7 @@ Configuração tradicional: https://www.desmos.com/calculator/nlsuegmb1u
 Configuração em linha: https://www.desmos.com/calculator/262v60za2g
 
 <hr>
-<H2>Blocos em Pêndulos com Molas em Círculos</H2>
+<H2>Blocos com Molas em Círculo + Pêndulos</H2>
 
 Configuração tradicional: https://www.desmos.com/calculator/y3v8dnif14
 
@@ -33,7 +33,7 @@ Configuração em linha: https://www.desmos.com/calculator/jxcljeh4va
 https://www.desmos.com/calculator/oyk3sicqqk
 
 <hr>
-<H2>Blocos em Pêndulos com Molas Sem Paredes</H2>
+<H2>Blocos com Molas Sem Paredes + Pêndulos</H2>
 
 https://www.desmos.com/calculator/aswf0hfqlz
 
