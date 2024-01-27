@@ -14,28 +14,42 @@ Uma cópia dessas simulações se encontra em [LIA-UFC](http://www.lia.ufc.br/~r
 
 
 <hr>
-<H2>Blocos com Molas em Círculo</H2>
+<H2>Blocos e Molas em Círculo</H2>
 
 Configuração tradicional: https://www.desmos.com/calculator/nlsuegmb1u
 
 Configuração em linha: https://www.desmos.com/calculator/262v60za2g
 
-<hr>
-<H2>Blocos com Molas em Círculo + Pêndulos</H2>
+Tradicional + Pêndulos: https://www.desmos.com/calculator/y3v8dnif14
 
-Configuração tradicional: https://www.desmos.com/calculator/y3v8dnif14
-
-Configuração em linha: https://www.desmos.com/calculator/jxcljeh4va
+Em linha + Pêndulos: https://www.desmos.com/calculator/jxcljeh4va
 
 <hr>
-<H2>Blocos com Molas Sem Paredes</H2>
+<H2>Blocos e Molas em Reta Sem Paredes</H2>
 
-https://www.desmos.com/calculator/oyk3sicqqk
+Sem Pêndulos: https://www.desmos.com/calculator/oyk3sicqqk
+
+Com pêndulos: https://www.desmos.com/calculator/aswf0hfqlz
 
 <hr>
-<H2>Blocos com Molas Sem Paredes + Pêndulos</H2>
+<H2>Blocos e Molas em Reta com 2 Paredes</H2>
 
-https://www.desmos.com/calculator/aswf0hfqlz
+Sem Pêndulos: https://www.desmos.com/calculator/cosrnv5yl7
+
+Com pêndulos: https://www.desmos.com/calculator/eefw1yj80h
+
+<hr>
+<H2>Blocos e Molas em Reta com 1 Parede</H2>
+
+Sem Pêndulos: https://www.desmos.com/calculator/grqmyv0tff
+
+Com pêndulos: ???
+
+<hr>
+<H2>1 Pêndulo com vários Blocos</H2>
+
+https://www.desmos.com/calculator/2lkdtp5tth
+
 
 
 
