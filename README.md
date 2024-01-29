@@ -10,9 +10,6 @@ Simulações no Desmos do artigo:
 <li><a href="normal_modes.pdf">PDF do artigo</a></li>
 </ul>
 
-Uma cópia dessas simulações se encontra em [LIA-UFC](http://www.lia.ufc.br/~rudini/publ/normal_modes.htm) e em [DC-UFC](http://sites.dc.ufc.br/~rudini/publ/normal_modes.htm)
-
-
 <hr>
 <H2>Blocos e Molas em Círculo</H2>
 
