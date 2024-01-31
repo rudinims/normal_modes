@@ -31,7 +31,7 @@ Com pêndulos: https://www.desmos.com/calculator/aswf0hfqlz
 <hr>
 <H2>Blocos e Molas em Reta com 2 Paredes</H2>
 
-Sem Pêndulos: https://www.desmos.com/calculator/llay8hkbe5
+Sem Pêndulos: https://www.desmos.com/calculator/gxbs8b4bmm
 
 Com pêndulos: https://www.desmos.com/calculator/mhnnoi0pra
 
