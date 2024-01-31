@@ -24,7 +24,7 @@ Em linha + Pêndulos: https://www.desmos.com/calculator/jxcljeh4va
 <hr>
 <H2>Blocos e Molas em Reta Sem Paredes</H2>
 
-Sem Pêndulos: https://www.desmos.com/calculator/oyk3sicqqk
+Sem Pêndulos: https://www.desmos.com/calculator/wh9l5qhu8k
 
 Com pêndulos: https://www.desmos.com/calculator/aswf0hfqlz
 
