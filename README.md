@@ -45,11 +45,7 @@ https://www.desmos.com/calculator/2lkdtp5tth
 
 <hr>
 
-.
-.
-.
-.
-.
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> 
 
 <hr>
 <H2>Blocos e Molas em Círculo (configuração alternativa em linha)</H2>
