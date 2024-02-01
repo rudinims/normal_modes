@@ -15,7 +15,7 @@ Simulações no Desmos do artigo:
 
 Sem Pêndulos: https://www.desmos.com/calculator/nlsuegmb1u
 
-Com Pêndulos: https://www.desmos.com/calculator/y3v8dnif14
+Com Pêndulos: https://www.desmos.com/calculator/4umbujrenq
 
 <hr>
 <H2>Blocos e Molas em Reta Sem Paredes</H2>
