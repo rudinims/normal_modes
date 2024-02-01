@@ -44,9 +44,11 @@ Com pêndulos: ???
 https://www.desmos.com/calculator/2lkdtp5tth
 
 <hr>
-<hr>
-<hr>
-<hr>
+
+
+
+
+
 
 <hr>
 <H2>Blocos e Molas em Círculo (configuração alternativa em linha)</H2>
