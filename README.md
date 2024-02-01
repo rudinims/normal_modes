@@ -54,9 +54,5 @@ Sem Pêndulos: https://www.desmos.com/calculator/262v60za2g
 
 Com Pêndulos: https://www.desmos.com/calculator/jxcljeh4va
 
-
-
-
-<hr>
 <hr>
 </BODY></HTML>
