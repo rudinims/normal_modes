@@ -13,13 +13,9 @@ Simulações no Desmos do artigo:
 <hr>
 <H2>Blocos e Molas em Círculo</H2>
 
-Configuração tradicional: https://www.desmos.com/calculator/nlsuegmb1u
+Sem Pêndulos: https://www.desmos.com/calculator/nlsuegmb1u
 
-Configuração em linha: https://www.desmos.com/calculator/262v60za2g
-
-Tradicional + Pêndulos: https://www.desmos.com/calculator/y3v8dnif14
-
-Em linha + Pêndulos: https://www.desmos.com/calculator/jxcljeh4va
+Com Pêndulos: https://www.desmos.com/calculator/y3v8dnif14
 
 <hr>
 <H2>Blocos e Molas em Reta Sem Paredes</H2>
@@ -46,6 +42,18 @@ Com pêndulos: ???
 <H2>1 Pêndulo com vários Blocos</H2>
 
 https://www.desmos.com/calculator/2lkdtp5tth
+
+<hr>
+<hr>
+<hr>
+<hr>
+
+<hr>
+<H2>Blocos e Molas em Círculo (configuração alternativa em linha)</H2>
+
+Sem Pêndulos: https://www.desmos.com/calculator/262v60za2g
+
+Com Pêndulos: https://www.desmos.com/calculator/jxcljeh4va
 
 
 
