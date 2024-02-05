@@ -41,7 +41,7 @@ Com pêndulos: ???
 <hr>
 <H2>1 Pêndulo com vários Blocos</H2>
 
-https://www.desmos.com/calculator/2lkdtp5tth
+https://www.desmos.com/calculator/dolzompvqt
 
 <hr>
 
