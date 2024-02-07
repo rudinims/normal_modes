@@ -20,14 +20,14 @@ Com Pêndulos: https://www.desmos.com/calculator/4umbujrenq
 <hr>
 <H2>Blocos e Molas em Reta Sem Paredes</H2>
 
-Sem Pêndulos: https://www.desmos.com/calculator/wh9l5qhu8k
+Sem Pêndulos: https://www.desmos.com/calculator/ymtet1n2ok
 
 Com pêndulos: https://www.desmos.com/calculator/svbdasa36y
 
 <hr>
 <H2>Blocos e Molas em Reta com 2 Paredes</H2>
 
-Sem Pêndulos: https://www.desmos.com/calculator/gxbs8b4bmm
+Sem Pêndulos: https://www.desmos.com/calculator/af89tg9xa7
 
 Com pêndulos: https://www.desmos.com/calculator/hdmgxzuzwk
 
