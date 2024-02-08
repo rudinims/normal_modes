@@ -36,7 +36,7 @@ Com pêndulos: https://www.desmos.com/calculator/5lqsbrn5rq
 
 Sem Pêndulos: https://www.desmos.com/calculator/n6u1bsksly
 
-Com pêndulos: ???
+Com pêndulos: https://www.desmos.com/calculator/bw5olss07c
 
 <hr>
 <H2>1 Pêndulo com vários Blocos</H2>
