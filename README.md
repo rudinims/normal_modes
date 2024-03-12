@@ -1,11 +1,11 @@
 # Simulações de Física - Modos Normais no Desmos
-Simulações no Desmos do artigo "Revisitando problemas clássicos de David Morin sobre oscilações acopladas com auxílio do Desmos".
+Simulações no Desmos do artigo "Revisitando problemas de oscilações acopladas: aplicações de álgebra linear, grafos e Desmos".
 
 <hr>
 Simulações no Desmos do artigo:
 <ul>
-<li><b>Título:</b> <i>Revisitando problemas clássicos de David Morin sobre oscilações acopladas com auxílio do Desmos</i></li>
-<li><b>Autores:</b> </li>
+<li><b>Título:</b> <i>Revisitando problemas de oscilações acopladas: aplicações de álgebra linear, grafos e Desmos</i></li>
+<li><b>Autores:</b> </li> Felipe Costa Cunha, Ivan Guilhon, Samuel Madeiro, Antônio José da Costa Sampaio, Rudini Sampaio
 <li><b>Journal:</b> </li>
 <li><a href="normal_modes.pdf">PDF do artigo</a></li>
 </ul>
