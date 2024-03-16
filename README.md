@@ -16,7 +16,7 @@ Uma cópia dessas simulações se encontra em [LIA-UFC](http://www.lia.ufc.br/~r
 <hr>
 <H2>Blocos e Molas Normais</H2>
 
-Circular: https://www.desmos.com/calculator/nlsuegmb1u
+Circular: https://www.desmos.com/calculator/nlsuegmb1u<br>
 Reto Sem Paredes: https://www.desmos.com/calculator/agp0yijdyu
 Reto Com 2 Paredes: https://www.desmos.com/calculator/ci427nqvjd
 Reto Com 1 Parede: https://www.desmos.com/calculator/n6u1bsksly
