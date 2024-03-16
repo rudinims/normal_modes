@@ -15,14 +15,13 @@ Uma cópia dessas simulações se encontra em [LIA-UFC](http://www.lia.ufc.br/~r
 
 <hr>
 <H2>Blocos e Molas Normais</H2>
-
 Circular: https://www.desmos.com/calculator/nlsuegmb1u <br>
 Reto Sem Paredes: https://www.desmos.com/calculator/agp0yijdyu <br>
 Reto Com 2 Paredes: https://www.desmos.com/calculator/ci427nqvjd <br>
 Reto Com 1 Parede: https://www.desmos.com/calculator/n6u1bsksly <br>
+
 <hr>
 <H2>Blocos e Molas Com Pêndulos</H2>
-
 Circular: https://www.desmos.com/calculator/4umbujrenq <br>
 Reto Sem Paredes: https://www.desmos.com/calculator/otqs6wtzp6 <br>
 Reto Com 2 Paredes: https://www.desmos.com/calculator/5lqsbrn5rq <br>
