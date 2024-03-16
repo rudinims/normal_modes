@@ -20,8 +20,6 @@ Circular: https://www.desmos.com/calculator/nlsuegmb1u <br>
 Reto Sem Paredes: https://www.desmos.com/calculator/agp0yijdyu <br>
 Reto Com 2 Paredes: https://www.desmos.com/calculator/ci427nqvjd <br>
 Reto Com 1 Parede: https://www.desmos.com/calculator/n6u1bsksly <br>
-
-
 <hr>
 <H2>Blocos e Molas Com Pêndulos</H2>
 
@@ -29,7 +27,9 @@ Circular: https://www.desmos.com/calculator/4umbujrenq <br>
 Reto Sem Paredes: https://www.desmos.com/calculator/otqs6wtzp6 <br>
 Reto Com 2 Paredes: https://www.desmos.com/calculator/5lqsbrn5rq <br>
 Reto Com 1 Parede: https://www.desmos.com/calculator/5b0fouw3h6 <br>
+<hr>
 
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> 
 <hr>
 <H2>1 Pêndulo com vários Blocos</H2>
 
