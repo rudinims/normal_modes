@@ -4,8 +4,8 @@ Simulações no Desmos do artigo "Revisitando problemas de oscilações acoplada
 <hr>
 Simulações no Desmos do artigo:
 <ul>
-<li><b>Título:</b> <i>Revisitando problemas de oscilações acopladas: aplicações de álgebra linear, grafos e Desmos</i></li>
-<li><b>Autores:</b> <i>Felipe Costa Cunha, Ivan Guilhon, Samuel Madeiro, Antônio José da Costa Sampaio, Rudini Sampaio</i></li>
+<li><b>Título:</b> <i>Revisitando modos normais de oscilações acopladas com a Teoria Espectral de Grafos</i></li>
+<li><b>Autores:</b> <i>Felipe Costa Cunha, Ivan Guilhon, Samuel Madeiro Sampaio, Antônio José da Costa Sampaio, Rudini Menezes Sampaio</i></li>
 <li><b>Journal:</b> <i></i></li>
 <li><a href="normal_modes.pdf">PDF do artigo</a></li>
 </ul>
