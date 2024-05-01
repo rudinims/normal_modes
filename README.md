@@ -1,7 +1,4 @@
 # Simulações de Física - Modos Normais no Desmos
-Simulações no Desmos do artigo "Revisitando modos normais de oscilações acopladas com a Teoria Espectral de Grafos".
-
-<hr>
 Simulações no Desmos do artigo:
 <ul>
 <li><b>Título:</b> <i>Revisitando modos normais de oscilações acopladas com a Teoria Espectral de Grafos</i></li>
