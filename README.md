@@ -24,7 +24,7 @@ Straight with 1 wall: https://www.desmos.com/calculator/4t38bfuslq <br>
 <hr>
 <H2>Circular Spring-Mass Systems (alternative configuration in a straight line)</H2>
 Without Pendulums: https://www.desmos.com/calculator/d3yg7i9fqw <br>
-With Pendulums: https://www.desmos.com/calculator/jxcljeh4va <br>
+With Pendulums: https://www.desmos.com/calculator/antbgvdrc9 <br>
 
 <hr>
 <H2>1 Pendulum with many Blocks</H2>
