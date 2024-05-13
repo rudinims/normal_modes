@@ -14,7 +14,7 @@ Straight with 1 wall: https://www.desmos.com/calculator/o7h4xfrv7a <br>
 
 <hr>
 <H2>Spring-Mass Systems with pendulums</H2>
-Circular: https://www.desmos.com/calculator/4umbujrenq <br>
+Circular: https://www.desmos.com/calculator/clxokbrfze <br>
 Straight with no wall: https://www.desmos.com/calculator/otqs6wtzp6 <br>
 Straight with 2 walls: https://www.desmos.com/calculator/5lqsbrn5rq <br>
 Straight with 1 wall: https://www.desmos.com/calculator/5b0fouw3h6 <br>
