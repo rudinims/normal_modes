@@ -7,7 +7,7 @@ Simulations in Desmos from the paper:
 
 <hr>
 <H2>Spring-Mass Systems without pendulums</H2>
-Circular: https://www.desmos.com/calculator/nlsuegmb1u <br>
+Circular: https://www.desmos.com/calculator/klro62sa8n <br>
 Straight with no wall: https://www.desmos.com/calculator/agp0yijdyu <br>
 Straight with 2 walls: https://www.desmos.com/calculator/ci427nqvjd <br>
 Straight with 1 wall: https://www.desmos.com/calculator/n6u1bsksly <br>
