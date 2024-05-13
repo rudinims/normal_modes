@@ -28,7 +28,7 @@ With Pendulums: https://www.desmos.com/calculator/antbgvdrc9 <br>
 
 <hr>
 <H2>1 Pendulum with many Blocks</H2>
-https://www.desmos.com/calculator/dolzompvqt <br>
+https://www.desmos.com/calculator/osrqtf8fz0 <br>
 
 <hr>
 </BODY></HTML>
