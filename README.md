@@ -17,7 +17,7 @@ Straight with 1 wall: https://www.desmos.com/calculator/o7h4xfrv7a <br>
 Circular: https://www.desmos.com/calculator/clxokbrfze <br>
 Straight without walls: https://www.desmos.com/calculator/9qvoiioshk <br>
 Straight with 2 walls: https://www.desmos.com/calculator/j9pducrvht <br>
-Straight with 1 wall: https://www.desmos.com/calculator/5b0fouw3h6 <br>
+Straight with 1 wall: https://www.desmos.com/calculator/1t9kymznev <br>
 <hr>
 
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
