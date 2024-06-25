@@ -1,8 +1,9 @@
 # Physics Simulations - Normal Modes in Desmos
 Simulations in Desmos from the paper:
 <ul>
-<li><b>Título:</b> <i>Spectral Graph Theory and the Normal Modes of Coupled Oscillations</i></li>
-<li><b>Autores:</b> <i>Felipe Costa Cunha (IFCE), Ivan Guilhon (ITA), Samuel Madeiro (ITA), Antônio José da Costa Sampaio (UVA), Rudini Sampaio (UFC)</i></li>
+<li><b>Title:</b> <i>Spectral Graph Theory and the Normal Modes of Coupled Oscillations</i></li>
+<li><b>Authors:</b> <i>Felipe Costa Cunha (IFCE), Ivan Guilhon (ITA), Samuel Madeiro (ITA), Antônio José da Costa Sampaio (UVA), Rudini Sampaio (UFC)</i></li>
+<li><b>Journal:</b> <i>Revista Brasileira de Ensino de Física, vol. 46, 2024 (RBEF, Qualis A1 em 2023).</i> <a href="http://dx.doi.org/10.1590/1806-9126-rbef-e2024-0095">DOI link</a></li>
 </ul>
 
 <hr>
